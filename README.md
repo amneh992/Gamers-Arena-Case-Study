@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Analysis – Interactive Dashboard with Tableau
+#  Video Game Sales Analysis – Interactive Dashboard with Tableau
 
 This project explores global video game performance using an interactive Tableau dashboard titled **Gamers Arena**. The goal is to deliver insights into how different platforms, genres, and user engagement metrics impact global sales.
 
@@ -6,13 +6,13 @@ The dashboard helps stakeholders make informed decisions based on the top-perfor
 
 ---
 
-## 📌 Dashboard Highlights
+##  Dashboard Highlights
 
-- 🎯 **Top-N Platforms** by Global Sales  
-- 🧠 **Top-N Rated Games** based on critic & user scores  
-- 📊 **Sales Heatmap** comparing genres and platforms  
-- 🌍 **Regional Insights** for North America, Europe, and Japan (if available in future extension)  
-- 🔢 **KPIs:** Game Count, Total Users, Total Global Sales, Average Critic Score  
+- **Top-N Platforms** by Global Sales  
+- **Top-N Rated Games** based on critic & user scores  
+- **Sales Heatmap** comparing genres and platforms  
+- **Regional Insights** for North America, Europe, and Japan (if available in future extension)  
+- **KPIs:** Game Count, Total Users, Total Global Sales, Average Critic Score  
 
 The dashboard is fully interactive with:
 - Filters to adjust Top-N views by platform or metric  
@@ -21,7 +21,7 @@ The dashboard is fully interactive with:
 
 ---
 
-## 🧠 Tools & Skills
+##  Tools & Skills
 
 - Tableau Desktop (TWBX file)
 - Excel for data preparation
@@ -32,14 +32,14 @@ The dashboard is fully interactive with:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - PS2 and Xbox 360 lead in global sales volume across genres
 - Games like **The Witcher 3**, **Call of Duty**, and **GTA** dominate both critic scores and global sales
 - Strategy and Role-Playing genres show the highest engagement levels by user count
 - Strong correlation between critic score and overall game popularity
 
-# 👩‍💻 Author
+#  Author
 
 **Amneh Mohammad Ibrahim Ghanem**  
 Master’s in Data Science – Deakin University  
